@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f6d9aaa.css",
+    "main.js": "/static/js/main.3dd4d66e.js",
+    "static/media/banner.mp4": "/static/media/banner.cd6e8bbe6a312429c1b2.mp4",
+    "static/media/s5.jpg": "/static/media/s5.58e6a2012155e8167976.jpg",
+    "static/media/Gym.jpeg": "/static/media/Gym.e97bf421b1cdb980f365.jpeg",
+    "static/media/s4.jpeg": "/static/media/s4.a4e830400f4fd3fc203e.jpeg",
+    "static/media/s1.jpeg": "/static/media/s1.ea49a48f0195f2588a4f.jpeg",
+    "static/media/Asian.jpg": "/static/media/Asian.1053466533ef67dd2595.jpg",
+    "static/media/Nike.jpg": "/static/media/Nike.64ebc4be37e6961cc792.jpg",
+    "static/media/BB.jpg": "/static/media/BB.d027481688f5a8f2c7ac.jpg",
+    "static/media/Puma.jpg": "/static/media/Puma.a3cf8b3c05831fdb9b07.jpg",
+    "static/media/s3.jpg": "/static/media/s3.d653718971aadc7651ae.jpg",
+    "static/media/Tenis.jpg": "/static/media/Tenis.adf79baedd9cd0cd5b7e.jpg",
+    "static/media/Runing.jpg": "/static/media/Runing.bf06d2257f1d8f663822.jpg",
+    "static/media/Dance.jpg": "/static/media/Dance.54f5862eaa19918bcf17.jpg",
+    "static/media/Fb.jpg": "/static/media/Fb.77e968afcebd0433271d.jpg",
+    "static/media/Hrx.jpg": "/static/media/Hrx.241a6dd87030e111e898.jpg",
+    "static/media/s6.jpg": "/static/media/s6.e1270f65bd2f504b0e1a.jpg",
+    "static/media/log.jpeg": "/static/media/log.cc42f63e44d9fd0cd5e5.jpeg",
+    "static/media/s2.jpeg": "/static/media/s2.886ccdc1a5d5a3784b31.jpeg",
+    "index.html": "/index.html",
+    "main.8f6d9aaa.css.map": "/static/css/main.8f6d9aaa.css.map",
+    "main.3dd4d66e.js.map": "/static/js/main.3dd4d66e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6d9aaa.css",
+    "static/js/main.3dd4d66e.js"
+  ]
+}
